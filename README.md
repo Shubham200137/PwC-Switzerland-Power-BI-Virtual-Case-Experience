@@ -3,6 +3,7 @@ PwC Virtual Internship: Gain hands-on data analytics experience with Power BI. C
 
 
 This repository contains the solutions and details for tasks in the "PwC New World. New Skills: Power BI Virtual Case Experience."
+
 [Enroll in the PwC Virtual Internship](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience?ref=tyxMRPW9q3hTztyN9)
 
 ## Task 2 - Customer Retention
